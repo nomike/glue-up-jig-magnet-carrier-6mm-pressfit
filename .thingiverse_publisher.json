@@ -1,0 +1,37 @@
+{
+  "thing": {
+    "name": "Parametric shelf brackets",
+    "category": "Other",
+    "tags": [
+      "parametric",
+      "openscad",
+      "gridfinity"
+    ],
+    "is_wip": false,
+    "license": "bsd-2-clause",
+    "id": 6525086
+  },
+  "files": {
+    "glue up jig - magnet carrier 6mm-pressfit.scad": {
+      "id": 14295170,
+      "name": "glue_up_jig_-_magnet_carrier_6mm-pressfit.scad",
+      "url": "https://www.thingiverse.com/download:14295170"
+    },
+    "output/glue up jig - magnet carrier 6mm-pressfit.stl": {
+      "id": 14295171,
+      "name": "glue_up_jig_-_magnet_carrier_6mm-pressfit.stl",
+      "url": "https://www.thingiverse.com/download:14295171"
+    },
+    "glue up jig - magnet carrier 6mm.scad": {
+      "id": 14295172,
+      "name": "glue_up_jig_-_magnet_carrier_6mm.scad",
+      "url": "https://www.thingiverse.com/download:14295172"
+    },
+    "glue up jig - magnet carrier 6mm.stl": {
+      "id": 14295173,
+      "name": "glue_up_jig_-_magnet_carrier_6mm.stl",
+      "url": "https://www.thingiverse.com/download:14295173"
+    }
+  },
+  "images": {}
+}
