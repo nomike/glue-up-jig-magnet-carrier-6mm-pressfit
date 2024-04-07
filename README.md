@@ -1,4 +1,4 @@
-This is a remix of the original gridfinity glueup jig with smaller magnet holes so you can press-fit them.
+This is a remix of the original gridfinity glue up jig with smaller magnet holes so you can press-fit them.
 
 You will also need to print one of the bases from the original [Gridfinity Bin Magnet Jig](https://www.printables.com/model/559220-gridfinity-bin-magnet-jig).
 
