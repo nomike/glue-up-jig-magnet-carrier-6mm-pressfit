@@ -10,7 +10,7 @@ My design is based on [Gridfinity Bin Magnet Jig](https://www.printables.com/mod
 
 #### Thingiverse
 
-<https://thingiverse.com/thing:6525086>
+<https://thingiverse.com/thing:6567737>
 
 #### Github
 
