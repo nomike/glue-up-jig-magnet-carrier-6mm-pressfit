@@ -8,29 +8,29 @@
       "gridfinity"
     ],
     "is_wip": false,
-    "license": "bsd-2-clause",
+    "license": "BSD License",
     "id": 6567737
   },
   "files": {
     "glue up jig - magnet carrier 6mm-pressfit.scad": {
-      "id": 14295222,
+      "id": 14299379,
       "name": "glue_up_jig_-_magnet_carrier_6mm-pressfit.scad",
-      "url": "https://www.thingiverse.com/download:14295222"
+      "url": "https://www.thingiverse.com/download:14299379"
     },
     "output/glue up jig - magnet carrier 6mm-pressfit.stl": {
-      "id": 14295223,
+      "id": 14299380,
       "name": "glue_up_jig_-_magnet_carrier_6mm-pressfit.stl",
-      "url": "https://www.thingiverse.com/download:14295223"
+      "url": "https://www.thingiverse.com/download:14299380"
     },
     "glue up jig - magnet carrier 6mm.scad": {
-      "id": 14295224,
+      "id": 14299381,
       "name": "glue_up_jig_-_magnet_carrier_6mm.scad",
-      "url": "https://www.thingiverse.com/download:14295224"
+      "url": "https://www.thingiverse.com/download:14299381"
     },
     "glue up jig - magnet carrier 6mm.stl": {
-      "id": 14295225,
+      "id": 14299382,
       "name": "glue_up_jig_-_magnet_carrier_6mm.stl",
-      "url": "https://www.thingiverse.com/download:14295225"
+      "url": "https://www.thingiverse.com/download:14299382"
     }
   },
   "images": {}
