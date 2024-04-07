@@ -7,3 +7,11 @@ For fitting the magnets use a tool like the [Gridfinity Friction Fit Magnet Jig 
 #### Acknowledgements
 
 My design is based on [Gridfinity Bin Magnet Jig](https://www.printables.com/model/559220-gridfinity-bin-magnet-jig) by gsgx. It is an accessory for gridfinity which was created by Zack Freedman.
+
+#### Thingiverse
+
+<https://thingiverse.com/thing:6525086>
+
+#### Github
+
+<https://github.com/nomike/Gridfinity-Bin-Magnet-Jig-Pressfit>
