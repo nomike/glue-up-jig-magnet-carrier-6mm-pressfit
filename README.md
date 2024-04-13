@@ -14,4 +14,4 @@ My design is based on [Gridfinity Bin Magnet Jig](https://www.printables.com/mod
 
 #### Github
 
-<https://github.com/nomike/Gridfinity-Bin-Magnet-Jig-Pressfit>
+<https://github.com/nomike/glue-up-jig-magnet-carrier-6mm-pressfit>
