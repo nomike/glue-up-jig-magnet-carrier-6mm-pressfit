@@ -15,6 +15,10 @@ Be sure to use a [recent version of OpenSCAD](https://openscad.org/downloads.htm
 
 My design is based on [Gridfinity Bin Magnet Jig](https://www.printables.com/model/559220-gridfinity-bin-magnet-jig) by gsgx. It is an accessory for gridfinity which was created by Zack Freedman.
 
+#### Printables
+
+<>
+
 #### Thingiverse
 
 <https://thingiverse.com/thing:6567737>
